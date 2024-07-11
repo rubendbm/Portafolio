@@ -1,1 +1,1 @@
-Este proyecto esta formado por un csv en donde se encuentran los datos y el código en el que mediante modelos de Machine Learning realizo predicciones y estudios sobre la intención de compradores en una tienda online.
+Este proyecto esta formado por un csv en donde se encuentran los datos y por un jupyter python notebook en donde se encuentra el código en el que mediante modelos de Machine Learning realizo predicciones y estudios sobre la intención de compradores en una tienda online.
