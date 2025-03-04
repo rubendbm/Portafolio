@@ -1,1 +1,1 @@
-Este proyecto esta formado por un csv en donde se encuentran los datos y por un jupyter python notebook en donde se encuentra el código en el que mediante modelos de Machine Learning realizo predicciones y estudios sobre la intención de compradores en una tienda online.
+This project is a study on the intention of online buyers. In it, I use both ML tools to find an optimal model and analytical tools to draw technical and business conclusions. This project has helped me improve both my data analysis skills and my expertise in the field of Machine Learning.
